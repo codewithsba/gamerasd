@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gamerasd
 - 👀 I’m interested in games and python
 - 🌱 I’m currently learning python
-- 📫 How to reach me discord server name is:Learn Python
+- 📫 How to reach me discord server name is: Python Students
 - 😄 Pronouns: he/him
 
 <!---
